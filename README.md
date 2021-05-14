@@ -8,7 +8,7 @@ This program parses through the [RBSA](https://neea.org/data/residential-buildin
 
 ## Requirements
 ```
-pip install pandas datetime numpy
+pip install pandas numpy
 ```
 
 ### To get the code
